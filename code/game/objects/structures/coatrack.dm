@@ -39,6 +39,10 @@
 		/obj/item/clothing/suit/leathercoat,
 		/obj/item/clothing/suit/browncoat,
 		/obj/item/clothing/suit/neocoat,
+		/obj/item/clothing/suit/inquisitor,
+		/obj/item/clothing/suit/chaplain_hoodie,
+		/obj/item/clothing/suit/storage/armorjacketcapt,
+		/obj/item/clothing/suit/storage/wintercoat/fur,
 		/obj/item/clothing/suit/inquisitor
 		)
 	var/list/allowed_hats = list(
